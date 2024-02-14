@@ -1,0 +1,7 @@
+{
+    "db_user": "root",
+    "db_password": "test",
+    "db_name": "shopping",
+    "db_port": 3306,
+    "db_host": "localhost"
+}
